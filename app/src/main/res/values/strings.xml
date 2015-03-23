@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Check Random Number of Paypass Card</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_log">Transaction Log</string>
+    <string name="service_name">Check Random Number</string>
+    <string name="title_string">Scan your Paypass!</string>
+    <string name="title_activity_transaction_log">TransactionLogActivity</string>
+    <string name="title_activity_upload_to_server">UploadToServer</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
