@@ -1,5 +1,12 @@
 <resources>
 
     <string name="title_string">Scan your Paypass!</string>
+    <string name="title_activity_upload_to_server">Upload to Server</string>
+    <string name="title_activity_transaction_log">Transaction Log</string>
+    <string name="service_name">Check Random Number</string>
+    <string name="hello_world">Hello World</string>
+    <string name="app_name">Check Random Number of Paypass Card</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_log">Transaction Log</string>
 
 </resources>
