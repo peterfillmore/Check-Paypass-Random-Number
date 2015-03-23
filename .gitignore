@@ -27,3 +27,6 @@ proguard/
 
 # Log Files
 *.log
+
+#compiled APK
+!CheckRandom.apk
